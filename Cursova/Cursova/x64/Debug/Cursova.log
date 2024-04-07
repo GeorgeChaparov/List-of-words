@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Cursova\Cursova\main.cpp(239,10): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+C:\Users\User\source\repos\Cursova\Cursova\main.cpp(264,10): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+C:\Users\User\source\repos\Cursova\Cursova\main.cpp(1043,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\source\repos\Cursova\Cursova\main.cpp(83): warning C4715: 'CreateSentenceFromInput': not all control paths return a value
+  Cursova.vcxproj -> C:\Users\User\source\repos\Cursova\x64\Debug\Cursova.exe
