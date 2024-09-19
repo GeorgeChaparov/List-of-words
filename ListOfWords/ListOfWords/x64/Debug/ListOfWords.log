@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\gigoto\Documents\GitHub\List-of-words\ListOfWords\ListOfWords\main.cpp(239,4): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+C:\Users\gigoto\Documents\GitHub\List-of-words\ListOfWords\ListOfWords\main.cpp(264,4): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+C:\Users\gigoto\Documents\GitHub\List-of-words\ListOfWords\ListOfWords\main.cpp(1042,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\gigoto\Documents\GitHub\List-of-words\ListOfWords\ListOfWords\main.cpp(83,1): warning C4715: 'CreateSentenceFromInput': not all control paths return a value
+  ListOfWords.vcxproj -> C:\Users\gigoto\Documents\GitHub\List-of-words\ListOfWords\x64\Debug\ListOfWords.exe
